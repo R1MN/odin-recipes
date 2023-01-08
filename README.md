@@ -8,12 +8,11 @@ It's all about food and will, probably, _forever_ be **WIP** :)
 
 > Do not go by my humble beginnings. Be wary of my enormous vision.
 
--said a ~~random guy~~ _Manoj Arora_ on Goodreads
-^^^and that's exactly what this project is about - **humble beginnings**
+-said ~~some random guy~~ _Manoj Arora_ on Goodreads
 
 ---
 
-## HTML used
+## HTML Used
 
 - [x] Boilerplate code
 - [x] Headings (h1,h2,h3)
@@ -22,3 +21,13 @@ It's all about food and will, probably, _forever_ be **WIP** :)
 - [x] Links
 - [x] Images
 - [x] Line Breaks
+
+## CSS Used
+
+- [x] Background Color
+- [x] Color
+- [x] Font size
+- [x] Font family
+- [x] Font weight
+- [x] Text align
+- [x] Image height and width
