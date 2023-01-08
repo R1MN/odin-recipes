@@ -1,0 +1,23 @@
+body {
+  font-family: "Courier New", Courier, monospace;
+  text-align: center;
+}
+
+a {
+  text-decoration: none;
+}
+
+img {
+  width: 500px;
+  height: auto;
+  border-radius: 2%;
+}
+
+#main-list {
+  font-weight: bolder;
+  list-style-type: none;
+}
+
+.adjust-left {
+  text-align: left;
+}
